@@ -1,11 +1,11 @@
-<!-- Profile README for Code X / APS -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Code%20X%20aka%20APS&fontAlign=50&fontColor=ffffff&fontSize=40&textBg=true&desc=Full-Stack%20Dev%20|%20Discord%20Bot%20Wizard%20|%20Hosting%20Pro&descAlign=50&descSize=20&descColor=00ffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=250&section=header&text=Code%20X%20(aka%20APS)&fontAlign=50&fontColor=00ffff&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ApsXminer&label=Profile+Views&color=00ffff&style=flat-square" />
+  <br/>
   <a href="https://discord.com/users/1005088956951564358">
     <img src="https://lanyard.cnrad.dev/api/1005088956951564358?theme=dark&bg=1a1b27&animated=true&hideDiscrim=true&borderRadius=10px" />
   </a>
@@ -13,18 +13,25 @@
 
 ---
 
-### 👋 Hey there, I'm Code X (aka APS)
+## 🧠 About Me
 
-- 🔭 Running [Danink Cloud](https://danink.cloud) ☁️  
-- 💻 Developer of [CodeX Security Bot](https://dsc.gg/codexsecurity) 🤖  
+> 👋 Yo! I’m **Code X**, also known as **APS** — a multi-stack developer and bot wizard.
+
+- ⚙️ Owner of [Danink Cloud](https://danink.cloud) (Hosting Solutions)  
+- 🤖 Creator of [CodeX Security](https://dsc.gg/codexsecurity) (My Own Bot)  
+- 🌍 Profile: [guns.lol/code_x](https://guns.lol/code_x)  
 - 📂 Portfolio: [team.danink.cloud/aps](https://team.danink.cloud/aps)  
-- 🌍 Profile Page: [guns.lol/code_x](https://guns.lol/code_x)  
-- 🧠 Always leveling up my skills in **C#**, **Node.js**, and more  
-- 🛠️ Working with Minecraft, Discord, bots, and full-stack web  
+- 🧠 Skills: Python, Node.js, HTML, CSS, JS, C#, Discord, Minecraft  
+- 🧪 Learning: Deepening my craft in **C#** and advanced bot systems  
+- 🌐 Projects I've built:  
+  - [danink.cloud](https://danink.cloud)  
+  - [team.danink.cloud](https://team.danink.cloud)  
+  - [codex.danink.cloud](https://codex.danink.cloud)  
+  - [steadysportsshooting.online](https://steadysportsshooting.online)  
 
 ---
 
-### ⚙️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -37,31 +44,35 @@
 
 ---
 
-### 📈 GitHub Stats & Streaks
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApsXminer&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApsXminer&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ApsXminer&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ApsXminer&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApsXminer&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ApsXminer&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
 
 - 💬 Discord Server: [Codex Support](https://dsc.gg/codexsupport)
 - 🤖 Bot: [CodeX Security](https://dsc.gg/codexsecurity)
 - 🪪 Profile: [guns.lol/code_x](https://guns.lol/code_x)
-- 📂 Portfolio: [team.danink.cloud/aps](https://team.danink.cloud/aps)
 - ☁️ Hosting: [Danink Cloud](https://danink.cloud)
+- 🗂️ Portfolio: [team.danink.cloud/aps](https://team.danink.cloud/aps)
 
 ---
 
-> ⚡ *"Code like a beast. Sleep like a legend."*
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=00ffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer" />
 </p>
+
+> ⚡ *"Code like a beast. Sleep like a legend."*
