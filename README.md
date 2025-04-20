@@ -1,4 +1,6 @@
-<!-- Profile README for Code X / APS -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Code+X+%F0%9F%9A%80;Made+by+CODE+X+Community" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=250&section=header&text=Code%20X%20(aka%20APS)&fontAlign=50&fontColor=00ffff&fontSize=40&animation=fadeIn" />
@@ -49,8 +51,8 @@
 
   <!-- Live Server Preview -->
   <br/><br/>
-  <a href="https://dsc.gg/codexsupport">
-    <img src="https://discord.com/api/guilds/1361584465645928549/widget.png?style=banner2" alt="Join Codex Support" />
+ <a href="https://discord.gg/3xzPkYHd9U" target="_blank">
+    <img src="https://img.shields.io/discord/1361584465645928549?label=Join%20CodeX%20Community&logo=discord&style=for-the-badge" />
   </a>
 
   <!-- Join Button -->
