@@ -60,17 +60,7 @@
   </a>
 </p>
 
----
-
-## 👤 Live Discord Status
-
-<p align="center">
-  <!-- Discord Profile Pic -->
-  <a href="https://discord.com/users/1005088956951564358">
-    <img src="https://dcdn.dstn.to/avatar/1005088956951564358" width="120" style="border-radius: 50%;" />
-  </a>
-  <br/>
-  <!-- Discord Live Status -->
+ Live Status -->
   <a href="https://discord.com/users/1005088956951564358">
     <img src="https://lanyard.cnrad.dev/api/1005088956951564358?theme=dark&bg=1a1b27&animated=true&hideDiscrim=false&borderRadius=10px" />
   </a>
