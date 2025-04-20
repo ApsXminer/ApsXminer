@@ -1,3 +1,4 @@
+<!-- Profile README for Code X / APS -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=250&section=header&text=Code%20X%20(aka%20APS)&fontAlign=50&fontColor=00ffff&fontSize=40&animation=fadeIn" />
@@ -5,19 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ApsXminer&label=Profile+Views&color=00ffff&style=flat-square" />
-  <br/>
-<p align="center">
-  <!-- Discord Profile Pic -->
-  <a href="https://discord.com/users/1005088956951564358">
-    <img src="https://dcdn.dstn.to/avatar/1005088956951564358" width="120" style="border-radius: 50%;" />
-  </a>
-  <br/>
-  <!-- Discord Live Status -->
-  <a href="https://discord.com/users/1005088956951564358">
-    <img src="https://lanyard.cnrad.dev/api/1005088956951564358?theme=dark&bg=1a1b27&animated=true&hideDiscrim=false&borderRadius=10px" />
-  </a>
-</p>
-
 </p>
 
 ---
@@ -49,6 +37,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+</p>
+
+---
+
+## 💬 My Discord Server: Codex Support
+
+<p align="center">
+  <!-- Server Icon -->
+  <img src="https://cdn.discordapp.com/icons/1361584465645928549/a_6e284ae401fc4a541d83c2630be39a3f.gif?size=128" width="100" style="border-radius: 50%;" />
+
+  <!-- Live Server Preview -->
+  <br/><br/>
+  <a href="https://dsc.gg/codexsupport">
+    <img src="https://discord.com/api/guilds/1361584465645928549/widget.png?style=banner2" alt="Join Codex Support" />
+  </a>
+
+  <!-- Join Button -->
+  <br/><br/>
+  <a href="https://dsc.gg/codexsupport">
+    <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👤 Live Discord Status
+
+<p align="center">
+  <!-- Discord Profile Pic -->
+  <a href="https://discord.com/users/1005088956951564358">
+    <img src="https://dcdn.dstn.to/avatar/1005088956951564358" width="120" style="border-radius: 50%;" />
+  </a>
+  <br/>
+  <!-- Discord Live Status -->
+  <a href="https://discord.com/users/1005088956951564358">
+    <img src="https://lanyard.cnrad.dev/api/1005088956951564358?theme=dark&bg=1a1b27&animated=true&hideDiscrim=false&borderRadius=10px" />
+  </a>
 </p>
 
 ---
