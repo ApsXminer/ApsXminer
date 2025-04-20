@@ -6,9 +6,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ApsXminer&label=Profile+Views&color=00ffff&style=flat-square" />
   <br/>
+<p align="center">
+  <!-- Discord Profile Pic -->
   <a href="https://discord.com/users/1005088956951564358">
-    <img src="https://lanyard.cnrad.dev/api/1005088956951564358?theme=dark&bg=1a1b27&animated=true&hideDiscrim=true&borderRadius=10px" />
+    <img src="https://dcdn.dstn.to/avatar/1005088956951564358" width="120" style="border-radius: 50%;" />
   </a>
+  <br/>
+  <!-- Discord Live Status -->
+  <a href="https://discord.com/users/1005088956951564358">
+    <img src="https://lanyard.cnrad.dev/api/1005088956951564358?theme=dark&bg=1a1b27&animated=true&hideDiscrim=false&borderRadius=10px" />
+  </a>
+</p>
+
 </p>
 
 ---
