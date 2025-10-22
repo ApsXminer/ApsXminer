@@ -12,6 +12,9 @@
 
 ---
 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1383706658315960330?theme=dark&showDisplayName=true&animated=false&animatedDecoration=false&bg=1A1C1F&borderRadius=10px&idleMessage=Making%20DevHaven)](https://discord.com/users/1383706658315960330)
+
 ## 🧠 About Me
 
 > 👋 Yo! I’m **Code X**, also known as **APS** — a multi-stack developer and bot wizard.
